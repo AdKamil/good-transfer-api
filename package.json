@@ -1,0 +1,13 @@
+{
+  "name": "good-transfer-api",
+  "version": "1.0.0",
+  "description": "api for good transfer app",
+  "main": "server.js",
+  "author": "Kamil Grząba",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemailer": "^5.1.1"
+  }
+}
